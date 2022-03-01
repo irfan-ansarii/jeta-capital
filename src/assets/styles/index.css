@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+    font-family: "futura";
+    font-style: normal;
+    font-weight: 400;
+    src: local(""), url("../fonts/futura/futura-light.ttf");
+}
+
+@font-face {
+    font-family: "futura";
+    font-style: normal;
+    font-weight: 600;
+    src: local(""), url("../fonts/futura/futura-medium.ttf");
+}
+
+@font-face {
+    font-family: "futura";
+    font-style: normal;
+    font-weight: 700;
+    src: local(""), url("../fonts/futura/futura-pt-bold.otf");
+}
+
+@tailwind utilities;
