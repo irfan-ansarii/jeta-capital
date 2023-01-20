@@ -1,23 +1,23 @@
-import React from "react";
+import React from 'react'
 
-import CoinImg from "../../assets/images/offer/coin.jpg";
-import GroupImg from "../../assets/images/offer/group.jpg";
+import CoinImg from '../../assets/images/offer/coin.jpg'
+import GroupImg from '../../assets/images/offer/group.jpg'
 const Info = () => {
   return (
     <div>
       <div className="flex item-center justify-between flex-wrap text-white">
         <div className="w-full md:w-1/2">
           <div className="text-center md:text-left md:border-r border-accentYellow">
-            <h1 className="text-4xl md:text-6xl font-bold mb-8">
+            <h2 className="text-4xl md:text-6xl font-bold mb-8">
               Why <span className="text-accentYellow">Jeta Capital</span>
-            </h1>
+            </h2>
             <div className="flex items-center">
               <div className="w-4/5 mx-auto md:ml-0">
                 <p>
                   By choosing to work with Jeta Capital, you are already one
-                  step closer to success. We help you realize your vision
-                  and beyond. We possess industry leading experience and
-                  resources to bring your innovative ideas to reality.
+                  step closer to success. We help you realize your vision and
+                  beyond. We possess industry leading experience and resources
+                  to bring your innovative ideas to reality.
                 </p>
               </div>
             </div>
@@ -26,9 +26,6 @@ const Info = () => {
         </div>
         <div className="w-full md:w-1/2">
           <div className="text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-8">
-              We <span className="text-accentYellow">Offer</span>
-            </h1>
             <div className="flex items-center justify-center">
               <div className="w-4/5">
                 <img
@@ -60,7 +57,7 @@ const Info = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Info;
+export default Info

@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 const Contact = () => {
   return (
@@ -17,7 +17,7 @@ const Contact = () => {
           <div className="flex justify-center lg:justify-between items-center flex-wrap md:mt-4">
             <div className="w-full md:w-1/3 p-4">
               <a
-                href="mailto:research@jetacapital.io?subject=Funding Inquiry - JETA CAPITAL"
+                href="mailto:lagal@jetacapital.io?subject=Funding Inquiry - JETA CAPITAL"
                 className="w-56 bg-white font-bold py-4 text-center rounded-xl block mx-auto"
               >
                 Funding Inquiry
@@ -26,7 +26,7 @@ const Contact = () => {
 
             <div className="w-full md:w-1/3 p-4">
               <a
-                href="mailto:research@jetacapital.io?subject=General Inquiry - JETA CAPITAL"
+                href="mailto:lagal@jetacapital.io?subject=General Inquiry - JETA CAPITAL"
                 className="w-56 bg-white font-bold py-4 text-center rounded-xl block mx-auto"
               >
                 General Inquiry
@@ -34,7 +34,7 @@ const Contact = () => {
             </div>
             <div className="w-full md:w-1/3 p-4">
               <a
-                href="mailto:research@jetacapital.io?subject=Press Inquiry - JETA CAPITAL"
+                href="mailto:lagal@jetacapital.io?subject=Press Inquiry - JETA CAPITAL"
                 className="w-56 bg-white font-bold py-4 text-center rounded-xl block mx-auto"
               >
                 Press Inquiry
@@ -44,7 +44,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Contact;
+export default Contact

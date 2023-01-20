@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 const About = () => {
   return (
@@ -6,12 +6,9 @@ const About = () => {
       <div className="flex flex-wrap items-center align-middle">
         <div className="w-full" id="about-us">
           <div className="text-center py-10 md:py-28 px-4">
-            <h1 className="text-primaryBlack text-4xl md:text-6xl font-bold my-8">
-              Who <span className="text-accentYellow">Are We</span>
-            </h1>
             <div className="lg:w-[840px] mx-auto">
               <p>
-                Jeta Capital is a cryptocurrency venture capital firm with an
+                Jeta Capital is a Blockchain & AI venture capital firm with an
                 aim of unlocking and fostering the potential of next generation
                 projects and teams.
                 <br />
@@ -33,7 +30,7 @@ const About = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default About
