@@ -17,8 +17,8 @@ const Portfolio = () => {
           </div>
           <div className="flex items-center justify-between flex-wrap">
             <div className="w-full text-center md:text-right">
-              <div className="flex items-center justify-center justify-center gap-10">
-                <div className="w-1/2 md:w-1/4 text-center">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+                <div className=" text-center">
                   <a
                     href="https://iq.space/"
                     className="inline-block"
@@ -28,7 +28,7 @@ const Portfolio = () => {
                       <img
                         src={ProtocolLogo}
                         alt="IQ Protocol"
-                        className="w-full h-full mx-auto"
+                        className="w-full h-full max-w-[10rem] mx-auto"
                       />
                     </div>
 
@@ -37,7 +37,7 @@ const Portfolio = () => {
                     </div>
                   </a>
                 </div>
-                <div className="w-1/2 md:w-1/4 text-center">
+                <div className="text-center">
                   <a
                     href="https://chromaway.com/"
                     className="inline-block"
@@ -47,7 +47,7 @@ const Portfolio = () => {
                       <img
                         src={ChromayLogo}
                         alt="Chromaway"
-                        className="w-full h-full mx-auto"
+                        className="w-full h-full max-w-[10rem] mx-auto"
                       />
                     </div>
 
@@ -56,7 +56,7 @@ const Portfolio = () => {
                     </div>
                   </a>
                 </div>
-                <div className="w-1/2 md:w-1/4 text-center">
+                <div className="text-center">
                   <a
                     href="https://www.oasislabs.com/"
                     className="inline-block"
@@ -66,7 +66,7 @@ const Portfolio = () => {
                       <img
                         src={OasislabsLogo}
                         alt="Oasis Labs"
-                        className="w-full h-full mx-auto"
+                        className="w-full h-full max-w-[10rem] mx-auto"
                       />
                     </div>
 
@@ -75,7 +75,7 @@ const Portfolio = () => {
                     </div>
                   </a>
                 </div>
-                <div className="w-1/2 md:w-1/4 text-center">
+                <div className="text-center">
                   <a
                     href="https://fantom.foundation/"
                     className="inline-block"
@@ -85,7 +85,7 @@ const Portfolio = () => {
                       <img
                         src={FantomLogo}
                         alt="Fantom"
-                        className="w-full h-full mx-auto"
+                        className="w-full h-full max-w-[10rem] mx-auto"
                       />
                     </div>
 

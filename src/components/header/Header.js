@@ -1,13 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Logo from '../../assets/images/logo/logo.png'
 import LogoLight from '../../assets/images/logo/logo-light.png'
 
 const Header = () => {
-  const [showMobileMenu, setShowMobileMenu] = useState(false)
 
-  const handleMobileMenu = () => {
-    showMobileMenu ? setShowMobileMenu(false) : setShowMobileMenu(true)
-  }
   const menuItems = ['Home', 'About Us', 'Our Team', 'Contact Us']
 
   return (

@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddd9e25c.css",
+    "main.js": "/static/js/main.491d53e7.js",
+    "static/media/Raj-Gill.png": "/static/media/Raj-Gill.3acfec3ce563b6a5bcdf.png",
+    "static/media/futura-pt-bold.otf": "/static/media/futura-pt-bold.dc013cc0e20e579e0d51.otf",
+    "static/media/Priyanka-Gill.png": "/static/media/Priyanka-Gill.f8c743af8794d694266e.png",
+    "static/media/group.jpg": "/static/media/group.12bb914925ab5a546004.jpg",
+    "static/media/coin.jpg": "/static/media/coin.3eaf0647dbb0e8e5e773.jpg",
+    "static/media/Daniel-Alves.png": "/static/media/Daniel-Alves.e82c090d926ecb596f7e.png",
+    "static/media/logo.png": "/static/media/logo.faaf13eeb23eb58608af.png",
+    "static/media/logo-light.png": "/static/media/logo-light.f0573f00f9efa4065fb1.png",
+    "static/media/futura-medium.ttf": "/static/media/futura-medium.4e762c29ef7b44ca51cb.ttf",
+    "static/media/oasis-labs-logo.png": "/static/media/oasis-labs-logo.d786119c749d002557bc.png",
+    "static/media/futura-light.ttf": "/static/media/futura-light.ead7282f8edac7904e53.ttf",
+    "static/media/chromaway-logo.png": "/static/media/chromaway-logo.ae60f2a703ad35430691.png",
+    "static/media/fantom-logo.png": "/static/media/fantom-logo.14374374a83db033c060.png",
+    "static/media/iq-protocol.png": "/static/media/iq-protocol.dec3150f06cd06ee8f50.png",
+    "index.html": "/index.html",
+    "main.ddd9e25c.css.map": "/static/css/main.ddd9e25c.css.map",
+    "main.491d53e7.js.map": "/static/js/main.491d53e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd9e25c.css",
+    "static/js/main.491d53e7.js"
+  ]
+}
